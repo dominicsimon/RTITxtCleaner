@@ -6,7 +6,8 @@ https://rtionline.gov.in/ accepts Right To Information Text without special char
 Create a microsoft Excel Sheet
 
 Create button between colums A and F
+Rename Button Text to something like CleanRTIText
 Enlarge A1 and F1 to enclose the text
-for button.Click event add the code in module.vb and assign button to 
+for button.Click event add the code in module.vb and assign button to run Sub RTIClean()
 
 Now you can paste the RTI text in A1 and click Button then F1 will contain the cleaned text
